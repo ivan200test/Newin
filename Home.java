@@ -7,5 +7,7 @@ public class Home {
 		b = new Scanner(System.in).nextInt();
 		c = a + b;
 		System.out.println("Сумма ваших чисел равна " + c);
+		
+		System.out.println ("Сканер запустись!");
 	}
 }
